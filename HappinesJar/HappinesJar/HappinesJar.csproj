@@ -10,6 +10,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Xamarin.Forms" Version="4.4.0.991640"/>
+        <PackageReference Include="Microsoft.AppCenter" Version="4.2.0" />
+        <PackageReference Include="Microsoft.AppCenter.Analytics" Version="4.2.0" />
+        <PackageReference Include="Microsoft.AppCenter.Crashes" Version="4.2.0" />
+        <PackageReference Include="Xamarin.Forms" Version="4.4.0.991640" />
     </ItemGroup>
 </Project>

@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -17,6 +20,8 @@ namespace HappinesJar
 
         protected override void OnStart()
         {
+
+
             // Handle when your app starts
         }
 
