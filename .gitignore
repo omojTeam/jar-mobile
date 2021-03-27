@@ -1,1 +1,8 @@
 ﻿/HappinesJar/HappinesJar.Android/
+/HappinesJar/HappinesJar/bin/Debug/netstandard2.0
+/HappinesJar/HappinesJar/obj/Debug/netstandard2.0
+/HappinesJar/HappinesJar.iOS/bin/iPhoneSimulator/Debug
+/HappinesJar/HappinesJar.iOS/obj/iPhoneSimulator/Debug/actool
+/HappinesJar/HappinesJar.iOS/obj/iPhoneSimulator/Debug/coremlc
+/HappinesJar/HappinesJar.iOS/obj/iPhoneSimulator/Debug/ibtool
+/HappinesJar/HappinesJar.iOS/obj/iPhoneSimulator/Debug

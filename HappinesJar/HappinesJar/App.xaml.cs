@@ -1,4 +1,5 @@
-﻿using Microsoft.AppCenter;
+﻿using HappinesJar.Helpers;
+using Microsoft.AppCenter;
 using Microsoft.AppCenter.Analytics;
 using Microsoft.AppCenter.Crashes;
 using System;
@@ -20,7 +21,8 @@ namespace HappinesJar
 
         protected override void OnStart()
         {
-
+            AppCenter.Start(Secrets.AppCenter,
+                   typeof(Analytics), typeof(Crashes));
 
             // Handle when your app starts
         }
