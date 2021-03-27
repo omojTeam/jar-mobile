@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/.idea.HappinesJar.iml
+/contentModel.xml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\bkoscielinski\source\repos\omojTeam\jar-mobile\.idea\.idea.HappinesJar\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
