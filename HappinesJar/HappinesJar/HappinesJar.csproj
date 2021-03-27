@@ -26,7 +26,12 @@
     <ItemGroup>
       <Folder Include="Model\" />
       <Folder Include="Bootstrapper\" />
-      <Folder Include="Views\" />
       <Folder Include="ViewModels\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="Views\HelloPage.xaml.cs">
+        <DependentUpon>HelloPage.xaml</DependentUpon>
+      </Compile>
     </ItemGroup>
 </Project>

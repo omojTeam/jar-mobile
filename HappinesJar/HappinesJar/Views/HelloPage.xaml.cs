@@ -11,9 +11,9 @@ using Xamarin.Forms.Xaml;
 
 namespace HappinesJar
 {
-    public partial class MainPage : ContentPage
+    public partial class HelloPage : ContentPage
     {
-        public MainPage()
+        public HelloPage()
         {
             InitializeComponent();
 

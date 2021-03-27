@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="HappinesJar.HelloPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:forms="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
+    xmlns:local="clr-namespace:HappinesJar"
+    BackgroundColor="#FFFFFF"
+    Visual="Material">
+
+    <StackLayout BackgroundColor="White">
+        <!--  Place new controls here  -->
+        <forms:AnimationView
+            x:Name="animationView"
+            Animation="cowEatingGrass.json"
+            AnimationSource="AssetOrBundle"
+            AutoPlay="True"
+            HorizontalOptions="FillAndExpand"
+            RepeatMode="Infinite"
+            VerticalOptions="FillAndExpand" />
+        <forms:AnimationView
+            x:Name="animationView"
+            Animation="cowEatingGrass.json"
+            AnimationSource="AssetOrBundle"
+            AutoPlay="True"
+            HorizontalOptions="FillAndExpand"
+            RepeatMode="Infinite"
+            VerticalOptions="FillAndExpand" />
+        <forms:AnimationView
+            x:Name="animationView"
+            Animation="cowEatingGrass.json"
+            AnimationSource="AssetOrBundle"
+            AutoPlay="True"
+            HorizontalOptions="FillAndExpand"
+            RepeatMode="Infinite"
+            VerticalOptions="FillAndExpand" />
+        <forms:AnimationView
+            x:Name="animationView"
+            Animation="cowEatingGrass.json"
+            AnimationSource="AssetOrBundle"
+            AutoPlay="True"
+            HorizontalOptions="FillAndExpand"
+            RepeatMode="Infinite"
+            VerticalOptions="FillAndExpand" />
+        <forms:AnimationView
+            x:Name="animationView"
+            Animation="cowEatingGrass.json"
+            AnimationSource="AssetOrBundle"
+            AutoPlay="True"
+            HorizontalOptions="FillAndExpand"
+            RepeatMode="Infinite"
+            VerticalOptions="FillAndExpand" />
+        <forms:AnimationView
+            x:Name="animationView"
+            Animation="cowEatingGrass.json"
+            AnimationSource="AssetOrBundle"
+            AutoPlay="True"
+            HorizontalOptions="FillAndExpand"
+            RepeatMode="Infinite"
+            VerticalOptions="FillAndExpand" />
+        <forms:AnimationView
+            x:Name="animationView"
+            Animation="cowEatingGrass.json"
+            AnimationSource="AssetOrBundle"
+            AutoPlay="True"
+            HorizontalOptions="FillAndExpand"
+            RepeatMode="Infinite"
+            VerticalOptions="FillAndExpand" />
+    </StackLayout>
+
+</ContentPage>

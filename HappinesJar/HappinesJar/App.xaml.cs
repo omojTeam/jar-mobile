@@ -16,7 +16,7 @@ namespace HappinesJar
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new HelloPage();
         }
 
         protected override void OnStart()
