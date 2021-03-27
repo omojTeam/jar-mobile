@@ -23,9 +23,8 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="DTO\" />
       <Folder Include="Model\" />
-      <Folder Include="Services\" />
+      <Folder Include="Services\Cards\" />
       <Folder Include="Views\" />
       <Folder Include="ViewModels\" />
     </ItemGroup>
