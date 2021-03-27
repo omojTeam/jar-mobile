@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XBqJilQ4fNNv55Px/Sc8zpZYM4SLqDWfH613lVI0prPEXBHGxdkufhb+aEqUY2aBOqDzxqc1P0jVsOTG+0UGQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bkoscielinski\\RiderProjects\\HappinesJar\\HappinesJar\\HappinesJar.iOS\\HappinesJar.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bkoscielinski\\.nuget\\packages\\xamarin.forms\\4.4.0.991640\\xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}
